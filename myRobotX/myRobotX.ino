@@ -14,7 +14,7 @@
 #define Trig_PIN 3
 
 #define SPEED1 130
-#define SPEED2 110
+#define SPEED2 120
 #define SPEED3 100
 
 #define max_dist 150
@@ -93,9 +93,11 @@ void followLine() {
   int valueMiddle = digitalRead(IRSensorM);
 
   if ((valueLeft == HIGH && valueRight == LOW )) {
-    go_Left();
+    go_Left();delay(10);
+    stop_Stop();delay(10);
   } else if ((valueLeft == LOW &&  valueRight == HIGH)) {
-    go_Right();
+    go_Right();delay(10);
+    stop_Stop();delay(10);
   } else if (valueLeft == HIGH &&  valueRight == HIGH && valueMiddle == HIGH) {
     go_Right();
   } else if (valueLeft == LOW &&  valueRight == LOW && valueMiddle == LOW) {
@@ -216,6 +218,12 @@ void offRoadL()
     stop_Stop();
     delay(50);
   }
+  
+  go_Right();
+  delay(50);
+  stop_Stop();
+  delay(50);
+  
   while(detectObjDistance()>20)
   { turnUSsensorRight();
     delay(100);

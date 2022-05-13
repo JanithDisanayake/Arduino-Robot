@@ -175,18 +175,24 @@ void offRoadL()
     Stop();
     delay(50);
   }
+  
+  turnLeft();
+  delay(50);
+  Stop();
+  delay(50);
+  
   while(detectObjDistance()>20){
     turnUSsensorRight();
-    delay(1000);
+    delay(100);
     Forward();
-    delay(50); 
+    delay(100); 
     Stop();
-    delay(50);   
+    delay(10);   
   }  
   delay(1000);
   turnUSsensorRight();
   delay(500);
-  while(!detectLineIRm ())
+  while(!detectLineIRm())
   { if(detectObjDistance()<20)
     { turnLeft();delay(100);
       stop_Stop();delay(50);
