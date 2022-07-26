@@ -19,7 +19,7 @@
 - <b>[myRobotX](/myRobotX) is the Final Code</b>
 
 ## Items we used
-1. Arduino Uno R3
+1. [Arduino Uno R3](https://store.arduino.cc/products/arduino-uno-rev3)
 2. L298 Motor Driver
 3. Car chassis pack 
 4. Battries
