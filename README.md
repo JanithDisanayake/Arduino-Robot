@@ -29,8 +29,10 @@
 8. Servo Motor
 
 ---
-<img src="https://github.com/Janith3003/Arduino-Robot/blob/main/LIFOD.jpg" width="500" height="auto">
+<div align="center">
+<img src="https://github.com/Janith3003/Arduino-Robot/blob/main/LIFOD.jpg" width="300" height="auto">
 
----
+LinkedIn Post: [click here!](https://www.linkedin.com/posts/janith-disanayake-8511b0240_team-robot-roboticsengineering-activity-6954856546669400064-tL5p?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
+</div>
 
