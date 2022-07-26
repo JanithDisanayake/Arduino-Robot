@@ -1,23 +1,22 @@
 
 <div align="center">
   <p>
-      <img width="20%" src="/arduino-official.svg">
+      <img width="20%" src="/arduino-icon.svg">
   </p>
-  <b><h3> Robot </h3></b>
-  <p> Line Following & Object Avoiding </p>
-  <p> Making Line Followign & Object Avoiding Robot using Arduino GuidLine </p>
+  <b><h3> Arduino Robot </h3></b>
+  <p> Making Line Followign & Object Avoiding Robot using <a href="https://www.arduino.cc"> Arduino </a></p>
 </div>
+<br>
 
-### Instructions:
+
+
+## Instructions:
 - All Files of Robot
 - Testing Files Also included
 - myRobot code is made by our own hand
-- newlineFollowe just included the Line Following code
-- <b>myRobotX is the Final Code</b>
----
-<img src="https://github.com/Janith3003/Arduino-Robot/blob/main/LIFOD.jpg" width="500" height="auto">
-
----
+- [compounents](#items-we-used) are mentioned below
+- [newlineFollower](/newlineFollower) just included the Line Following code
+- <b>[myRobotX](/myRobotX) is the Final Code</b>
 
 ## Items we used
 1. Arduino Uno R3
@@ -28,3 +27,10 @@
 6. Ultra Sonic Sensor
 7. Infared Sensors
 8. Servo Motor
+
+---
+<img src="https://github.com/Janith3003/Arduino-Robot/blob/main/LIFOD.jpg" width="500" height="auto">
+
+---
+
+
