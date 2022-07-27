@@ -29,8 +29,7 @@
 8. Servo Motor
 
 ## Tool We have used
-
-[Download](https://www.arduino.cc/en/software)
+ &nbsp;  &nbsp; <a href="https://www.arduino.cc/en/software"><img src="/arduino-ide-logo.svg" width="40"></a>
 
 ---
 <div align="center">
