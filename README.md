@@ -27,6 +27,8 @@
 6. Ultra Sonic Sensor
 7. Infared Sensors
 8. Servo Motor
+9. Bread Board
+10. Jumpers
 
 ## Apps and Tools
  &nbsp;  &nbsp; <a href="https://www.arduino.cc/en/software"><img src="/arduino-ide-logo.svg" width="40"></a>
