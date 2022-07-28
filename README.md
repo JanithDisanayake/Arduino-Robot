@@ -31,6 +31,12 @@
 ## Tool We have used
  &nbsp;  &nbsp; <a href="https://www.arduino.cc/en/software"><img src="/arduino-ide-logo.svg" width="40"></a>
 
+## Contributors of this project
+- [Janith Disanayake](https://github.com/Janith3003)
+- [Tharusha Perera](https://github.com/tharusha1004)
+- [Pruthuvi De Silva](https://github.com/PruthuviDe)
+- [Yasiru Ravishan](https://github.com/yasiruravishan24)
+
 ---
 <div align="center">
 <img src="https://github.com/Janith3003/Arduino-Robot/blob/main/LIFOD.jpg" width="300" height="auto">
