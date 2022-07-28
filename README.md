@@ -28,7 +28,7 @@
 7. Infared Sensors
 8. Servo Motor
 
-## Tool We have used
+## Tools
  &nbsp;  &nbsp; <a href="https://www.arduino.cc/en/software"><img src="/arduino-ide-logo.svg" width="40"></a>
 
 ## Special Thanks:
