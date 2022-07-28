@@ -38,6 +38,9 @@
 - [Pruthuvi De Silva](https://github.com/PruthuviDe)
 - [Yasiru Ravishan](https://github.com/yasiruravishan24)
 
+## Checkout Our Documentation:
+[Project Proposal](/Project%20Report.pdf)
+
 ---
 <div align="center">
 <img src="https://github.com/Janith3003/Arduino-Robot/blob/main/LIFOD.jpg" width="300" height="auto">
