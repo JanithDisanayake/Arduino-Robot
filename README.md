@@ -54,9 +54,9 @@
 
 ## How It avoids obstacles
 <br>
-  The basic principle behind the working of ultrasonic sensor is to note down the time taken by sensor to transmit ultrasonic beams and <br>
-  receiving the ultrasonic beams after hitting the surface. <br>
-  Then further the distance is calculated. <br>
+  The basic principle behind the working of ultrasonic sensor is to note down the time  <br>
+  taken by sensor to transmit ultrasonic beams and receiving the ultrasonic beams after <br>
+  hitting the surface. Then further the distance is calculated.
 <br><br>
   <img src="/readme-essentials/RAD oa1.png" width="600">
 <br>
