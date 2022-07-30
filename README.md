@@ -72,7 +72,9 @@
 ## Checkout Our Documentation:
 [Project Proposal](/Project%20Report.pdf)
 
+<br><br>
 ---
+
 <div align="center">
 <img src="/readme-essentials/LIFOD.jpg" width="300" height="auto">
 
