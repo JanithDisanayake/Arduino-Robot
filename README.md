@@ -33,6 +33,10 @@
 ## Apps and Tools
  &nbsp;  &nbsp; <a href="https://www.arduino.cc/en/software"><img src="/arduino-ide-logo.svg" width="40"></a>
 
+## How It follows the line
+
+## How It avoids obstacles
+
 ## Special Thanks:
 - [Tharusha Perera](https://github.com/tharusha1004)
 - [Pruthuvi De Silva](https://github.com/PruthuviDe)
