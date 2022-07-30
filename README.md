@@ -36,6 +36,7 @@
 ## How It follows the line
 
 ## How It avoids obstacles
+<img src="/readme-essentials/RAD oa1.png">
 
 ## Special Thanks:
 - [Tharusha Perera](https://github.com/tharusha1004)
