@@ -8,7 +8,7 @@
 </div>
 <br>
 
-
+<br>
 
 ## Instructions:
 - All Files of Robot
@@ -17,6 +17,8 @@
 - [compounents](#items-we-used) are mentioned below
 - [newlineFollower](/newlineFollower) just included the Line Following code
 - <b>[myRobotX](/myRobotX) is the Final Code</b>
+
+<br><br>
 
 ## Items we used
 1. [Arduino Uno R3](https://store.arduino.cc/products/arduino-uno-rev3)
@@ -29,6 +31,8 @@
 8. Servo Motor
 9. Bread Board
 10. Jumpers
+
+<br>
 
 ## Apps and Tools
  &nbsp;  &nbsp; <a href="https://www.arduino.cc/en/software"><img src="/arduino-ide-logo.svg" width="40"></a>
@@ -50,9 +54,9 @@
 
 ## How It avoids obstacles
 <br>
-The basic principle behind the working of ultrasonic sensor is to note down the time  <br>
-taken by sensor to transmit ultrasonic beams and receiving the ultrasonic beams after <br>
-hitting the surface. Then further the distance is calculated.
+  The basic principle behind the working of ultrasonic sensor is to note down the time taken by sensor to transmit ultrasonic beams and <br>
+  receiving the ultrasonic beams after hitting the surface. <br>
+  Then further the distance is calculated. <br>
 <br><br>
   <img src="/readme-essentials/RAD oa1.png" width="600">
 <br>
