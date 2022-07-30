@@ -43,8 +43,10 @@
       <div align="left">
         <pre>
           A) Both IR LEDs are on the line. Robot car should move forward.
-          B) The Right IR LED is on the line while the left deviates to the left. Robot car should turn to the right.
-          C) The Left IR LED is on the line while the right deviates to the right. Robot car should turn to the left.
+          B) The Right IR LED is on the line while the left deviates to the left. Robot car should 
+             turn to the right.
+          C) The Left IR LED is on the line while the right deviates to the right. Robot car should 
+             turn to the left.
         </pre>
       </div>
 </div>
