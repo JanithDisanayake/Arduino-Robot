@@ -45,7 +45,8 @@
  <br><br>&nbsp;&nbsp;&nbsp;&nbsp;
  C) The Left IR LED is on the line while the right deviates to the right. Robot car should turn to the left. 
  <br>
-<br>
+ 
+<br><br>
 
 ## How It avoids obstacles
 <br>
