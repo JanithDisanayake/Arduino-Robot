@@ -33,17 +33,28 @@
 ## Apps and Tools
  &nbsp;  &nbsp; <a href="https://www.arduino.cc/en/software"><img src="/arduino-ide-logo.svg" width="40"></a>
 
+<br>
+
 ## How It follows the line
-<img src="/readme-essentials/RAD lf.png" width="600">
-<pre>
-A) Both IR LEDs are on the line. Robot car should move forward.
-B) The Right IR LED is on the line while the left deviates to the left. Robot car should turn to the right.
-C) The Left IR LED is on the line while the right deviates to the right. Robot car should turn to the left.
-</pre>
+<div align="center">
+    <div>
+      <img src="/readme-essentials/RAD lf.png" width="600">
+    </div>
+      <div align="left">
+        <pre>
+          A) Both IR LEDs are on the line. Robot car should move forward.
+          B) The Right IR LED is on the line while the left deviates to the left. Robot car should turn to the right.
+          C) The Left IR LED is on the line while the right deviates to the right. Robot car should turn to the left.
+        </pre>
+      </div>
+</div>
+<br>
+
 ## How It avoids obstacles
+
 <div align="center">
   
-  <img src="/readme-essentials/RAD oa1.png" width="400">
+  <img src="/readme-essentials/RAD oa1.png" width="500">
   <br><br>
   <pre>
       The basic principle behind the working of ultrasonic sensor is to note down the time 
@@ -53,6 +64,8 @@ C) The Left IR LED is on the line while the right deviates to the right. Robot c
   <br>
   <img src="/readme-essentials/RAD oa2.png" width="600">
 </div>
+
+<br><br>
 
 ## Special Thanks:
 - [Tharusha Perera](https://github.com/tharusha1004)
