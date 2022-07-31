@@ -69,6 +69,8 @@
 - [Pruthuvi De Silva](https://github.com/PruthuviDe)
 - [Yasiru Ravishan](https://github.com/yasiruravishan24)
 
+<br>
+
 ## Checkout Our Documentation:
 [Project Proposal](/Project%20Report.pdf)
 
