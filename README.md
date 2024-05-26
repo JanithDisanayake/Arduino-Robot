@@ -64,6 +64,11 @@
 
 <br><br>
 
+  ## Schematics and circuit diagrams
+  <a href="https://ibb.co/N2PsVVv"><img src="https://i.ibb.co/k2fxHH7/schematic-arduino-line-following-robot-sheet-u-Nr-Cjg-Bi-Re-1-cleanup.png" alt="schematic-arduino-line-following-robot-sheet-u-Nr-Cjg-Bi-Re-1-cleanup" border="0"></a>
+
+  <br>
+
 ## Special Thanks:
 - [Tharusha Perera](https://github.com/tharusha1004)
 - [Pruthuvi De Silva](https://github.com/PruthuviDe)
